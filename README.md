@@ -9,3 +9,5 @@ Logic was built using Laravel, and styling was done using Tailwind CSS.
 - The key performance indicator (KPI), the merchant's average sales, which is computed in naira and converted to naira using the free conversion APIs available at https://api.apilayer.com/
 - ### Screenshot
 ![ScreenShot](public/dashboard.png)
+
+![ScreenShot](public/dashboard2.png)
